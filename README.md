@@ -1,4 +1,4 @@
-# test1
-This is a test repository
+# Test1
+## This is a test repository
 
 This was created in order to learn to use github integrated with Windows and Linux
