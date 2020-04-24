@@ -10,3 +10,5 @@ Another change was made
 More changes being made
 Branch "Release"
 Pull request change
+
+This is another change on the file made with NotePad
